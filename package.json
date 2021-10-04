@@ -2,7 +2,7 @@
   "name": "automation-reports",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ganeshkaricharla.github.io/sacredgroves",
+  "homepage": "http://ganeshkaricharla.github.io/automation-reports/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
