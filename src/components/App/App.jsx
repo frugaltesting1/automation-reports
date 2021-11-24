@@ -67,7 +67,7 @@ class App extends React.Component {
                         </div>    
                         <div className="app-right-middle-link">
                             <div className="app-right-middle-link-bottom">
-                                <a href="https://www.sacredgroves.earth/">Website Reports</a>
+                                <a href="https://sacred-groves.github.io/website-automation/teststatistics/index.html">Website Reports</a>
                                 <a href="https://www.sacredgroves.earth/">Webapp Reports</a>
                                 <a href="https://www.sacredgroves.earth/">Mobileapp Reports</a>
                             </div>
