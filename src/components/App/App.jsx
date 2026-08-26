@@ -15,7 +15,7 @@ class App extends React.Component {
             var [year,month,day] = event.target.elements.dateInput.value.split('-');
             console.log(year,month,day);
             var date = day+''+month+''+year;
-            var path = "https://sacred-groves.github.io/"+applicationName+"-automation/"+ date +"/";
+            var path = "https://frugal.github.io/"+applicationName+"-automation/"+ date +"/";
             console.log(path);
             window.open(path);
         }
